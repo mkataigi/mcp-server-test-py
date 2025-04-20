@@ -929,7 +929,7 @@ wheels = [
 ]
 
 [[package]]
-name = "mcp-test-py"
+name = "mcp-server-test-py"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [

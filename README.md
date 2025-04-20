@@ -1,1 +1,1 @@
-# mcp-test-py
+# mcp-server-test-py
